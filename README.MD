@@ -1,4 +1,4 @@
-### Please find the revised version here: [main paper](https://github.com/sign4bb/sign4bb/blob/master/paper/revised-manuscript.pdf), [supplement](https://github.com/sign4bb/sign4bb/blob/master/paper/revised-supplement.pdf)
+# Please find the revised version here: [main paper](https://github.com/sign4bb/sign4bb/blob/master/paper/revised-manuscript.pdf), [supplement](https://github.com/sign4bb/sign4bb/blob/master/paper/revised-supplement.pdf)
 
 # Install
 
