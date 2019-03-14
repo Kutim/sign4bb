@@ -1,3 +1,5 @@
+### Please find the revised version here: [main paper](https://github.com/sign4bb/sign4bb/blob/master/paper/revised-manuscript.pdf), [supplement](https://github.com/sign4bb/sign4bb/blob/master/paper/revised-supplement.pdf)
+
 # Install
 
 To install the required packages, `cd` to this directory and run the following.
